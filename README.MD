@@ -68,7 +68,7 @@ Usage
 
 Run the script with:
 
-python3 your_script_name.py
+python3 bot.py
 
 You will be prompted to enter:
 
